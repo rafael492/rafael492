@@ -16,9 +16,9 @@
 
 - 🌱 Actualmente estoy aprendiendo desarrollo web y otros lenguajes de programación quiero llegar a ser FullStack
 
-- 📫 How to reach me **rafael.ing.dev@gmail.com**
+- 📫 Cómo comunicarse conmigo **rafael.ing.dev@gmail.com**
 
-- ⚡ Fun fact : - "El mejor experto también fue un día aprendiz"
+- ⚡ Dato curioso: - "El mejor experto también fue un día aprendiz"
 
 <br>
 
