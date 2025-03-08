@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Rafael Londoño </h1>
 <br>
 <h3 align="center">Ingeniero en Sistemas </h3>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">.</h3>
 
 
 <br>
