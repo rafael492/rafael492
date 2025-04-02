@@ -6,7 +6,7 @@
 
 Me destaco por mi capacidad para aprender rápidamente, habilidad para resolver problemas y trabajar en equipo; junto con un fuerte interés en crear soluciones eficientes y escalables, comunicacion asertiva y cumplimiento de objetivos.
 
-Adicionalmente me estoy formando para trabajar en el area de la programación me gustaría empezar ya sea en Front_End web o testing  no tengo experiencia laboral en esta área, pienso elaborar un buen portafolio con proyectos para mostrar mis capacidades y tener la oportunidad de un primer empleo en el área del desarrollo de software </p>
+Adicionalmente me estoy fortaleciendo para trabajar en el area de la programación ya sea en FrontEnd web o testing  para seguir creciendo laboralmente en el área, pienso elaborar un buen portafolio con proyectos para mostrar mis capacidades y tener la oportunidad de contribuir al desarrollo de software, el cumplimiento de metas del equipo de trabajo brindado aportes y soluciones efectivas </p>
 
 <br>
 
